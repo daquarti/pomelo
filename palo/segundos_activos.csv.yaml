@@ -1,0 +1,3 @@
+# this file exists so that we know when not to do the
+# segundos_activos.csv → segundos_activos.csv.hdf5 conversion
+fingerprint: 314c1109d7d787685b1226a0b8e2b937
